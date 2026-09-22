@@ -46,19 +46,20 @@
    - Web Browser: `<Default System Browser>` | Privacy Mode: **Normal**
 7. Click **Finish** — Maltego is now ready to run Transforms.
 
-![Purpose]()
-![Purpose]()
-![Purpose]()
-![Purpose]()
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-MALTEGO-/blob/3b66777f952126f9dcffc68228854b5d6221990a/MALTEGO%201.png)
 
 ### Task 2 — Footprint `networkwalks.com` for email addresses
 
 1. In the **Entity Palette**, search for **Domain** and drag it onto the graph canvas.
 2. Double-click the entity and rename it to `networkwalks.com`.
 3. Right-click the entity → filter Transforms by typing **email** → run:
-  ![Purpose]()
-![Purpose]()
-![Purpose]()
+
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-MALTEGO-/blob/3b66777f952126f9dcffc68228854b5d6221990a/MALTEGO%202.png)
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-MALTEGO-/blob/3b66777f952126f9dcffc68228854b5d6221990a/MALTEGO%203.png)
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-MALTEGO-/blob/3b66777f952126f9dcffc68228854b5d6221990a/MALTEGO%204.png)
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-MALTEGO-/blob/3b66777f952126f9dcffc68228854b5d6221990a/MALTEGO%206.png)
+![Purpose](https://github.com/KanishkaManikandan5/NETWORKWALKS-B083-WK2-PENETRATION-TESTING-MALTEGO-/blob/3b66777f952126f9dcffc68228854b5d6221990a/MALTEGO%207.png)
+
 5. Maltego queries public sources and returns discovered email entities linked to the domain — e.g. `info@networkwalks.com`.
 6. Results (graph + transform logs) can be exported to **XLSX, CSV, images, or PDF** for reporting.
 
