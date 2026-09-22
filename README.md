@@ -1,5 +1,4 @@
- 🕵️ NetworkWalks — Week 2 | Project Module 3: Footprinting with Maltego
-
+ # 🕵️ NetworkWalks — Week 2 | Project Module 3: Footprinting with Maltego
 
 
 
